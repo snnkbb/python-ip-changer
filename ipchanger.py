@@ -6,6 +6,7 @@
  * tkinter v8.6
  * 
  * P.S. This program is currently only for windows computer
+ * if don't run as administrator, convert to *.exe then run as administrator
 '''
 
 import wmi
